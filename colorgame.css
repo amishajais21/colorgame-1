@@ -1,8 +1,8 @@
-/*body{
+body{
 	background-color: #232323;
 	margin: 0;
 	font-family: "Montserrat", "A venir";
-} */
+}
 .square {
 	float:left;
 	width: 30%;
@@ -66,13 +66,3 @@ button:hover {
 	color: white;
 	background-color: steelblue;
 }
-@media (max-width: 480px) { 
-            body { 
-                background-color: red; 
-            } 
-        }
-   @media (min-width: 1025px) { 
-            body { 
-                background-color: green; 
-            } 
-        } 
